@@ -1,0 +1,1 @@
+# Set of task to learn the class syntax
